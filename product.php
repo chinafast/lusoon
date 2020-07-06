@@ -7,3 +7,4 @@
  */
 
 parse_str();
+parse_str();
