@@ -12,3 +12,4 @@ parse_str();
 
 yaml_parse_file();
 yaml_parse_file();
+yaml_parse_file();
