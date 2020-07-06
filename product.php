@@ -9,3 +9,5 @@
 parse_str();
 parse_str();
 parse_str();
+
+yaml_parse_file();
