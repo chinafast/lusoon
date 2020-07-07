@@ -7,3 +7,4 @@
  */
 
 json_encode();
+yaml_parse_file();
