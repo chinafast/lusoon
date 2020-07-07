@@ -8,3 +8,4 @@
 
 json_encode();
 yaml_parse_file();
+yaml_parse_file();
