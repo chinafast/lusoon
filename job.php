@@ -8,3 +8,4 @@
 
 json_encode();
 yaml_parse_file();
+libxml_clear_errors();
